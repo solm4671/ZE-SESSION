@@ -17,7 +17,7 @@ class Data:
         generate_single_button,
         [
             InlineKeyboardButton(
-                "ᥲ️᥎ᥲ️ƚᥲ️ᖇ 𖣂 ᥉᥆υᖇᥴᥱ", url="https://t.me/sourceav"
+                "𝑍𝐸 𖣂 𝑆𝑂𝐔𝑅𝐶𝐸", url="https://t.me/UI_XB"
             )
         ],
         [
