@@ -22,7 +22,7 @@ async def must_join_channel(bot: Client, msg: Message):
                     f"☆ يجب عليك الإشتراك [في هذه القناة]({link}) وبعد ذلك أعد المحاولة مرة أخرى!",
                     disable_web_page_preview=True,
                     reply_markup=InlineKeyboardMarkup(
-                        [[InlineKeyboardButton("سورس افـاتـار", url=link)]]
+                        [[InlineKeyboardButton("سورس زد إي", url=link)]]
                     ),
                 )
                 await msg.stop_propagation()
