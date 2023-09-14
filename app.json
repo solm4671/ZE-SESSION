@@ -1,7 +1,7 @@
 {
   "name": "Pyrogram And Telethon String Session Generator",
   "description": "Generate Pyrogram And Telethon String Session Easley",
-  "logo": "https://telegra.ph/file/29b1fbd85fe347fd9ceca.jpg",
+  "logo": "https://telegra.ph/file/f4a9db27039952b82f4be.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -50,7 +50,7 @@
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
       "required": false,
-      "value": "https://t.me/UI_XB"
+      "value": "https://t.me/Zz_Z_Z2"
     }
   }
 }
